@@ -1,0 +1,3 @@
+Serv: http://76.162.254.148/phpMyAdmin/index.php
+User: alejand_reach
+Pass: Reach2014
